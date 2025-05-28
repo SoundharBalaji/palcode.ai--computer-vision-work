@@ -1,0 +1,6 @@
+train: E:/palcode.ai/dataset/images/train
+val: E:/palcode.ai/dataset/images/train
+
+names:
+  0: door
+  1: window
